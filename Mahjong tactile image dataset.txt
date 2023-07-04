@@ -1,0 +1,1 @@
+Because of the large file size of the tactile image dataset of mahjong patterns, we uploaded it to Google Drive: https://drive.google.com/file/d/1-CJE9vm4zenVQ1AIpqlJbLU_4_hGqnKp/view?usp=drive_link
